@@ -1,0 +1,30 @@
+.play-container {
+    display: block;
+    width: 300px;
+    height: 100px;
+    margin: 30px;
+}
+
+input {
+    width: 250px;
+    height: 30px;
+    font-size: 22px;
+}
+
+#inputForm {
+    width: 400px;    
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    height: 30px;
+    margin: 30px;
+}
+.play-container {
+    width: 700px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
